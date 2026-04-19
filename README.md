@@ -32,7 +32,7 @@ A next-gen communication platform engineered for performance and security.
 ### 📫 Connect with me
 * **Business/Partnerships:** [dijarqelaj@stoarise.com](mailto:dijarqelaj@stoarise.com)
 * **Portfolio:** [portfolio-dijar-qelaj.vercel.app](https://portfolio-dijar-qelaj.vercel.app/)
-* **LinkedIn:** [linkedin.com/in/dijarqelaj](#) *(Shto linkun tënd këtu)*
+
 
 ---
 *"No matter the obstacle, with faith anything can be overcome."*
