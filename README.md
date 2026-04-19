@@ -18,7 +18,7 @@ Experienced Software Engineer specialized in building scalable, high-performance
 A next-gen communication platform engineered for performance and security.
 * **High-Performance:** Optimized WebRTC/SignalR integration for sub-second latency.
 * **Secure by Design:** End-to-end encryption with AES-GCM and rate-limiting.
-* **Scalable Infrastructure:** Built with .NET 8 and deployed via automated Azure pipelines.
+* **Scalable Infrastructure:** Built with .NET 10 and deployed via automated Azure pipelines.
 * **Live:** [stoarise.com](https://stoarise.com)
 
 ---
