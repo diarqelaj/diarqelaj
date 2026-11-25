@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 I'm **Dijar Qelaj**, a passionate Software Engineer and Founder of [Stoarise](https://stoarise.com) from Kosovo. I specialize in the .NET ecosystem, React, and building secure, high-performance web applications. I enjoy architecting clean backends and always strive to deliver scalable solutions.
 
